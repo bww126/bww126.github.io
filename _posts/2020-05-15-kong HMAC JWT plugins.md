@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      ***
-subtitle:   *****
-date:       2020-0*-**
+title:      认证插件
+subtitle:   服务网关kong
+date:       2020-05-15
 author:     bww126
 header-img: img/bg/gray-bg.PNG
 catalog: true
 tags:
-    - first
+    - kong
 ---
 
 ## JWT
